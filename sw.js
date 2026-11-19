@@ -3,7 +3,7 @@
  * Lädt alle Programmdateien bei der Installation vorab; danach läuft die App ohne Netz.
  * Eine neue Version wartet, bis die Nutzerin „Jetzt aktualisieren“ antippt (Bauplan 8.3).
  */
-const VERSION = '0.7.2-9f76a81c5a12';
+const VERSION = '0.7.3-52f5267a9de5';
 const FILES = ["index.html","app.js","manifest.webmanifest","icon.png","neu.png"];
 const CACHE = `haushaltsbuch-${VERSION}`;
 
